@@ -30,6 +30,8 @@ function App() {
 
 	return (
 		<div className='App'>
+			<h1>Color Guesser Game</h1>
+
 			<ColorBox color={color} />
 
 			<Buttons
