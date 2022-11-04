@@ -1,0 +1,18 @@
+.App {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	height: 98vh;
+	justify-content: center;
+	align-items: center;
+}
+
+.colorBox {
+	width: 300px;
+	height: 300px;
+}
+
+.buttons-container {
+	display: flex;
+	gap: 20px;
+}
